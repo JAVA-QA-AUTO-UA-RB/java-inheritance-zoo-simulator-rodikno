@@ -17,5 +17,6 @@ public class ZooSimulator {
 
         // Виведіть фінальні результати та стани тварин наприкінці дня.
 
+	// RODION CUSTOM
     }
 }
